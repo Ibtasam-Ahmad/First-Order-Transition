@@ -1,0 +1,29 @@
+D:\CPSLABII_BE201923\FirstOrderTransition\FirstOrderTransition\bin\Debug\FirstOrderTransition.exe.config
+D:\CPSLABII_BE201923\FirstOrderTransition\FirstOrderTransition\bin\Debug\FirstOrderTransition.exe
+D:\CPSLABII_BE201923\FirstOrderTransition\FirstOrderTransition\bin\Debug\FirstOrderTransition.pdb
+D:\CPSLABII_BE201923\FirstOrderTransition\FirstOrderTransition\obj\Debug\FirstOrderTransition.csprojResolveAssemblyReference.cache
+D:\CPSLABII_BE201923\FirstOrderTransition\FirstOrderTransition\obj\Debug\FirstOrderTransition.Form1.resources
+D:\CPSLABII_BE201923\FirstOrderTransition\FirstOrderTransition\obj\Debug\FirstOrderTransition.Properties.Resources.resources
+D:\CPSLABII_BE201923\FirstOrderTransition\FirstOrderTransition\obj\Debug\FirstOrderTransition.csproj.GenerateResource.Cache
+D:\CPSLABII_BE201923\FirstOrderTransition\FirstOrderTransition\obj\Debug\FirstOrderTransition.exe
+D:\CPSLABII_BE201923\FirstOrderTransition\FirstOrderTransition\obj\Debug\FirstOrderTransition.pdb
+\\itchep\BSc Evening Shared\BE2019\FirstOrderTransition\FirstOrderTransition\bin\Debug\FirstOrderTransition.exe.config
+\\itchep\BSc Evening Shared\BE2019\FirstOrderTransition\FirstOrderTransition\obj\Debug\FirstOrderTransition.exe
+\\itchep\BSc Evening Shared\BE2019\FirstOrderTransition\FirstOrderTransition\obj\Debug\FirstOrderTransition.pdb
+\\itchep\BSc Evening Shared\BE2019\FirstOrderTransition\FirstOrderTransition\bin\Debug\FirstOrderTransition.exe
+\\itchep\BSc Evening Shared\BE2019\FirstOrderTransition\FirstOrderTransition\bin\Debug\FirstOrderTransition.pdb
+\\itchep\BSc Evening Shared\BE2019\FirstOrderTransition\FirstOrderTransition\obj\Debug\FirstOrderTransition.csprojResolveAssemblyReference.cache
+\\itchep\BSc Evening Shared\BE2019\FirstOrderTransition\FirstOrderTransition\obj\Debug\FirstOrderTransition.Form1.resources
+\\itchep\BSc Evening Shared\BE2019\FirstOrderTransition\FirstOrderTransition\obj\Debug\FirstOrderTransition.Properties.Resources.resources
+\\itchep\BSc Evening Shared\BE2019\FirstOrderTransition\FirstOrderTransition\obj\Debug\FirstOrderTransition.csproj.GenerateResource.Cache
+E:\CPS LAB\Finals\FirstOrderTransition\FirstOrderTransition\FirstOrderTransition\bin\Debug\FirstOrderTransition.exe.config
+E:\CPS LAB\Finals\FirstOrderTransition\FirstOrderTransition\FirstOrderTransition\bin\Debug\FirstOrderTransition.exe
+E:\CPS LAB\Finals\FirstOrderTransition\FirstOrderTransition\FirstOrderTransition\bin\Debug\FirstOrderTransition.pdb
+E:\CPS LAB\Finals\FirstOrderTransition\FirstOrderTransition\FirstOrderTransition\obj\Debug\FirstOrderTransition.csproj.AssemblyReference.cache
+E:\CPS LAB\Finals\FirstOrderTransition\FirstOrderTransition\FirstOrderTransition\obj\Debug\FirstOrderTransition.csproj.SuggestedBindingRedirects.cache
+E:\CPS LAB\Finals\FirstOrderTransition\FirstOrderTransition\FirstOrderTransition\obj\Debug\FirstOrderTransition.Form1.resources
+E:\CPS LAB\Finals\FirstOrderTransition\FirstOrderTransition\FirstOrderTransition\obj\Debug\FirstOrderTransition.Properties.Resources.resources
+E:\CPS LAB\Finals\FirstOrderTransition\FirstOrderTransition\FirstOrderTransition\obj\Debug\FirstOrderTransition.csproj.GenerateResource.cache
+E:\CPS LAB\Finals\FirstOrderTransition\FirstOrderTransition\FirstOrderTransition\obj\Debug\FirstOrderTransition.csproj.CoreCompileInputs.cache
+E:\CPS LAB\Finals\FirstOrderTransition\FirstOrderTransition\FirstOrderTransition\obj\Debug\FirstOrderTransition.exe
+E:\CPS LAB\Finals\FirstOrderTransition\FirstOrderTransition\FirstOrderTransition\obj\Debug\FirstOrderTransition.pdb
